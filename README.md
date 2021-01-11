@@ -27,4 +27,4 @@ NetworkingSystem networkingSystem = new NetworkingSystem(controller, graphSystem
 FatTree fatTree = new FatTree(networkingSystem, k, 1, 10.0, 10.0, 10.0, 10.0, new double[]{1, 1, 1}, 1);
 ```
 
-See [tests](src/test) for other simple examples.
+See [tests](src/test) and [other ECES repositories using this library](https://github.com/AmoVanB/eces-topologies/network/dependents) for other simple examples.
